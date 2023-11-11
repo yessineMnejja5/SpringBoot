@@ -1,2 +1,7 @@
-package DAO.Entities;public enum TypeChambre {
+package DAO.Entities;
+
+public enum TypeChambre {
+    SIMPLE,
+    DOUBLE,
+    TRIPLE
 }
