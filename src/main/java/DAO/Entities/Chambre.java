@@ -1,6 +1,7 @@
 package DAO.Entities;
 
 import jakarta.persistence.*;
+import jakarta.websocket.server.PathParam;
 import lombok.*;
 
 @Data

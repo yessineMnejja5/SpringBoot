@@ -15,7 +15,7 @@ import java.util.Date;
 public class Reservation {
     @Id
     @Column(name="idReservation")
-    private long id;
+    private long String;
     @Column(name="anneeUniversitaire")
     private Date anneeUniversitaire;
 
